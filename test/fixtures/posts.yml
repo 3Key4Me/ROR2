@@ -2,10 +2,10 @@
 
 one:
   title: MyString
-  summary: MyText
-  body: MyText
+  body: MyString
+  user_id: 1
 
 two:
   title: MyString
-  summary: MyText
-  body: MyText
+  body: MyString
+  user_id: 1
