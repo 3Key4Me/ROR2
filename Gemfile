@@ -44,6 +44,9 @@ gem 'devise'
 gem 'bootstrap-sass', '~>3.3.6'
 gem 'jquery-rails'
 
+gem "paperclip", "~> 5.0.0"
+gem 'client_side_validations'
+
 group :development, :test do
   # Call 'byebug' anywhere in the code to stop execution and get a debugger console
   gem 'byebug', platforms: [:mri, :mingw, :x64_mingw]
